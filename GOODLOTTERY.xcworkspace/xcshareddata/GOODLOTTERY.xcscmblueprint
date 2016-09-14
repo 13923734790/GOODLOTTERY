@@ -1,0 +1,24 @@
+{
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "2eae1818-f5d5-0410-8193-e3d11c17b64b++567" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "2eae1818-f5d5-0410-8193-e3d11c17b64b++567" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "97FB194F-D15E-4972-BB91-54D8B9F85AB1",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "2eae1818-f5d5-0410-8193-e3d11c17b64b++567" : "GOODLOTTERY\/LJWKeyboardHandler\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "GOODLOTTERY",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "GOODLOTTERY.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/192.168.0.9\/repo\/P_GFW_MOBILEAPP",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2eae1818-f5d5-0410-8193-e3d11c17b64b++567"
+    }
+  ]
+}
