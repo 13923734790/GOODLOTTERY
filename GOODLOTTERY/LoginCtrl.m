@@ -25,6 +25,7 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+    // 写的啥
     login = [[LoginView alloc]initWithFrame:CGRectMake(0, 0, UIScreenWIDTH, UIScreenHEIGHT)];
     [self.view addSubview:login];
     [self SkinpeelrNub];
